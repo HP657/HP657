@@ -25,4 +25,4 @@
 
 
 
-<!--![HP657's github stats](https://github-readme-stats.vercel.app/api?username=HP657&show_icons=true)-->
+![HP657's github stats](https://github-readme-stats.vercel.app/api?username=HP657&show_icons=true)
