@@ -27,9 +27,8 @@
     junlee5070@gmail.com
   </p>
 
-#### 포폴 만드는 중 : https://junlee0507.notion.site/5f49c6200d434d32a38ea25674d3ca81?pvs=4
+#### 포폴 만드는 중 : ![Portfolio](https://junlee0507.notion.site/5f49c6200d434d32a38ea25674d3ca81?pvs=4)
 
-나중에 보세
 
 <!--![HP657's github stats](https://github-readme-stats.vercel.app/api?username=HP657&show_icons=true)-->
 
