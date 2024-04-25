@@ -8,6 +8,8 @@
   <a href="https://www.instagram.com/lz_h.57/" target="_blank"><img src="https://img.shields.io/badge/Instagram-link-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/lz_h.57/"/></a>&nbsp
   <a href="https://github.com/HP657" target="_blank"><img src="https://img.shields.io/badge/GitHub-HP657-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/HP657" alt="GitHub" /></a>&nbsp
   </p>
+
+  
 <!--
   #### Want Used language
   <p>
@@ -27,7 +29,7 @@
     junlee5070@gmail.com
   </p>
 
-#### 포폴 만드는 중 : [Portfolio](https://junlee0507.notion.site/5f49c6200d434d32a38ea25674d3ca81?pvs=4)
+### 포트폴리오 : [Portfolio](https://junlee0507.notion.site/5f49c6200d434d32a38ea25674d3ca81?pvs=4)
 
 
 <!--![HP657's github stats](https://github-readme-stats.vercel.app/api?username=HP657&show_icons=true)-->
