@@ -9,7 +9,7 @@
   <a href="https://github.com/HP657" target="_blank"><img src="https://img.shields.io/badge/GitHub-HP657-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
 </p>
 
-- **포트폴리오:** [클릭](https://junlee0507.notion.site)
+- **포트폴리오:** [클릭](https://junlee0507.notion.site/5f49c6200d434d32a38ea25674d3ca81)
 - **이메일:** junlee5070@gmail.com
 
 ### 📊 GitHub 통계
