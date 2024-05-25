@@ -11,6 +11,7 @@
 
 - **포트폴리오:** [클릭](https://www.notion.so/junlee0507/5f49c6200d434d32a38ea25674d3ca81)
 - **이메일:** junlee5070@gmail.com
+- **명함:** [클릭](https://hp657.github.io/)
 
 ### 📊 GitHub 통계
 
