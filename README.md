@@ -17,10 +17,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HP657&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔥 나의 꾸준함
+### 🔥 나의 꾸준함
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=HP657&" alt="HP657" /></p>
 
 <!--
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
  ![Trophies](https://github-profile-trophy.vercel.app/?username=HP657&theme=nord&column=7) -->
