@@ -9,9 +9,10 @@
   <a href="https://github.com/HP657" target="_blank"><img src="https://img.shields.io/badge/GitHub-HP657-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
 </p>
 
-- **포트폴리오:** [클릭](https://www.notion.so/junlee0507/5f49c6200d434d32a38ea25674d3ca81)
+<!-- - **포트폴리오:** [클릭](https://www.notion.so/junlee0507/5f49c6200d434d32a38ea25674d3ca81) -->
+- **포트폴리오:** [클릭](https://hp657.github.io/portfolio)
 - **이메일:** junlee5070@gmail.com
-- **명함:** [클릭](https://hp657.github.io/)
+- **명함:** [클릭](https://hp657.github.io/card)
 
 ### 📊 GitHub 통계
 
