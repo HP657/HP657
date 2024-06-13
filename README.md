@@ -12,7 +12,7 @@
 <p>
   <strong>포트폴리오:</strong> <a href="https://hp657.github.io/portfolio">클릭</a> &nbsp&nbsp&nbsp&nbsp
   <strong>명함:</strong> <a href="https://hp657.github.io/card">클릭</a> <br>
-  <strong>이메일:</strong> <a href="">junlee5070@gmail.com</a> <br>
+  <strong>이메일:</strong> junlee5070@gmail.com <br>
 </p>
 
 ### 📊 GitHub 통계
