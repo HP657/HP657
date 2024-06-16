@@ -49,7 +49,6 @@
   <img src="https://img.shields.io/badge/vsc-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" alt="VSCode">
   <img src="https://img.shields.io/badge/intelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" alt="IntelliJ IDEA">
   <br>
-  <hr>
   
   ## Studying
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> 
