@@ -52,6 +52,7 @@
   
   ## Studying
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> 
+  <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=black" alt="Go"> 
   <br>
 </div>
 </div>
