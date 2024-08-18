@@ -18,7 +18,6 @@
 ### 📊 GitHub 통계
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HP657&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HP657" alt="GitHub Streak" />
 </p>
 
