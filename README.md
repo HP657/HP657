@@ -25,7 +25,7 @@
 <div align="center"><h1>📚 STACKS</h1></div>
 
 <div align="center"> 
-  
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> 
   <br>
   
@@ -35,8 +35,6 @@
   <br>
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> 
-  <img src="https://img.shields.io/badge/dbeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver">
-
   <br>
   
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
@@ -52,8 +50,8 @@
   <br>
   
   ## Studying
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> 
-  <img src="https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"> 
   <img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=black" alt="Go"> 
   <br>
 </div>
