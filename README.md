@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  <strong>포트폴리오:</strong> <a href="https://hp657.github.io/portfolio">클릭</a> &nbsp&nbsp&nbsp&nbsp
+  <strong>포트폴리오:</strong> <a href="https://www.notion.so/junlee0507/5f49c6200d434d32a38ea25674d3ca81">클릭</a> &nbsp&nbsp&nbsp&nbsp
   <strong>명함:</strong> <a href="https://hp657.github.io/card">클릭</a> <br>
   <strong>이메일:</strong> junlee5070@gmail.com <br>
 </p>
