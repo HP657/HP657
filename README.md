@@ -110,7 +110,9 @@
 
 </details>
 
+## 🌍 Open Source Contributions
 
+- **SciPy** — [#20402](https://github.com/scipy/scipy/issues/20402)
 
 ## 📜 Certifications
 
