@@ -62,6 +62,13 @@
 ---
 
 ## 🎒 Activities
+
+<details>
+<summary>2025</summary>
+
+| 분류 | 활동 |
+|------|------|
+| 🏅 해커톤 & 경진대회 | 스마트소프트웨어학과 구름 AI 해커톤 참가 |
 <details>
 <summary>2025</summary>
 
