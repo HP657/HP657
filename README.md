@@ -64,7 +64,7 @@
 ## 🎒 Activities
 
 <details>
-<summary>2025</summary>
+<summary>2026</summary>
 
 | 분류 | 활동 |
 |------|------|
