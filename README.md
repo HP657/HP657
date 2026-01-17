@@ -19,6 +19,10 @@
 - **대진전자통신고등학교** - 컴퓨터소프트웨어과 졸업 (2022.03 ~ 2025.01)
 
 ---
+## 💼 Career & Experience
+
+- 청소년 SW 동행 프로젝트 멘토 (동아사이언스) - (2025.08 ~ 2025.12)  
+---
 
 ## 🛠️ Tech Stack
 
@@ -90,7 +94,6 @@
 |  | Make with Notion Watch Party in Korea 참가 |
 |  | Notion Seoul Community 입학 |
 |  | AI 개발자 커뮤니티 컨퍼런스 - 2026년, AI 시대의 프론트엔드 트랜드 미리 알아보기 참가 |
-| 🎓 멘토링 | 청소년 SW 동행 프로젝트 멘토 선정 (동아사이언스) |
 
 </details>
 
