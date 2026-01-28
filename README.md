@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 호기심과 관심으로 끊임없이 학습하고 성장하는 백엔드 개발자입니다
+### 문제 해결과 성능 최적화에 집중하며, 아이디어를 실제 서비스로 구현하는 백엔드 개발자입니다.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://junlee0507.notion.site/19affb418f6780ccb652e74a5c355cbb)
 [![Blog](https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@hp657)
@@ -153,8 +153,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HP657&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HP657&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HP657&layout=compact&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junlee0507)](https://solved.ac/junlee0507)
 
