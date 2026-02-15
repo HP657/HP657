@@ -94,7 +94,6 @@
 |  | 삐약톤 캠퍼스 대항전 참가 |
 | 👥 커뮤니티 & 컨퍼런스 | **AppJam Conference Moment:um 2025 참가** |
 |  | Make with Notion Watch Party in Korea 참가 |
-|  | Notion Seoul Community 입학 |
 |  | AI 개발자 커뮤니티 컨퍼런스 - 2026년, AI 시대의 프론트엔드 트랜드 미리 알아보기 참가 |
 
 </details>
