@@ -1,12 +1,6 @@
 # 👨‍💻 Backend Developer | 이효준
-
-<div align="center">
   
 ### 문제 해결과 성능 최적화에 집중하며, 아이디어를 실제 서비스로 구현하는 백엔드 개발자입니다.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://junlee0507.notion.site/19affb418f6780ccb652e74a5c355cbb)
-
-</div>
 
 ##
 
@@ -158,7 +152,8 @@
   
 ### 💬 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square)](mailto:junlee5070@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://junlee0507.notion.site/19affb418f6780ccb652e74a5c355cbb)
+[![Email](https://img.shields.io/badge/Email-junlee5070%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:junlee5070@gmail.com)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=HP657&color=blueviolet)
 
