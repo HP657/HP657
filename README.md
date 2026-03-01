@@ -141,8 +141,6 @@
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HP657&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HP657&show_icons=true&theme=radical)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junlee0507)](https://solved.ac/junlee0507)
 
 </div>
