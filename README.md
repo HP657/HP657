@@ -135,19 +135,6 @@
 
 ##
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HP657&theme=dark)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junlee0507)](https://solved.ac/junlee0507)
-
-</div>
-
-##
-
-<div align="center">
   
 ### 💬 Let's Connect!
 
@@ -156,4 +143,3 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=HP657&color=blueviolet)
 
-</div>
