@@ -128,6 +128,12 @@
 
 - **SciPy** — [#20402](https://github.com/scipy/scipy/issues/20402)
 
+
+## 🧾 **Intellectual Property**
+
+- **특허 명칭**: 모바일 기반 상품 결제 및 출구 인증 시스템 및 그 방법
+    - **출원 번호**: 10-2025-0206159
+
 ## 📜 Certifications
 
 - 정보처리기능사 (현 프로그래밍기능사) | 2023.09.20 | 한국산업인력공단
