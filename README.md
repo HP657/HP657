@@ -76,7 +76,8 @@
 | 🏅 해커톤 & 경진대회 | 스마트소프트웨어학과 구름 AI 해커톤 2회 - **우수상** |
 |  | STDev Science Hackathon 2026 참가 |
 |  | 스마트소프트웨어학과 구름 AI 해커톤 1회 참가 |
-| 👥 커뮤니티 & 컨퍼런스 | GNP 2026 참가 |
+| 👥 커뮤니티 & 컨퍼런스 | Open Source Summit Korea 2026 참가 |
+|  | GNP 2026 참가 |
 
 </details>
 
@@ -92,7 +93,7 @@
 |  | 제5회 연암공과대학교 AI 해커톤 고교생 리그 - **총장상** |
 |  | 제13회 KHACKATHON 본선 진출 |
 |  | 삐약톤 캠퍼스 대항전 참가 |
-| 👥 커뮤니티 & 컨퍼런스 | **AppJam Conference Moment:um 2025 참가** |
+| 👥 커뮤니티 & 컨퍼런스 | AppJam Conference Moment:um 2025 참가 |
 |  | Make with Notion Watch Party in Korea 참가 |
 |  | AI 개발자 커뮤니티 컨퍼런스 - 2026년, AI 시대의 프론트엔드 트랜드 미리 알아보기 참가 |
 
