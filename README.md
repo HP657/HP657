@@ -73,7 +73,7 @@
 
 | 분류 | 활동 |
 |------|------|
-| 🏅 해커톤 & 경진대회 | JunctionX Korea 2026 |
+| 🏅 해커톤 & 경진대회 | JunctionX Korea 2026 (lablup x furiosa track) 참가 |
 |  | 스마트소프트웨어학과 구름 AI 해커톤 2회 - **우수상** |
 |  | STDev Science Hackathon 2026 참가 |
 |  | 스마트소프트웨어학과 구름 AI 해커톤 1회 참가 |
