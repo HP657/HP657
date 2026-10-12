@@ -70,7 +70,7 @@
 <summary>2026</summary>
 
 | 분류 | 활동 |
-|------|------|제4회 경남AI·SW경진대회
+|------|------|
 | 🏅 해커톤 & 경진대회 | 제4회 경남AI·SW경진대회(업무혁신·생산성 향상 AI Agent) 참가 |
 |  | JunctionX Korea 2026 (lablup x furiosa track) 참가 |
 |  | 스마트소프트웨어학과 구름 AI 해커톤 2회 - **우수상** |
